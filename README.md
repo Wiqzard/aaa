@@ -1,4 +1,5 @@
 # syslog
+```
 Jun 12 14:54:30 kong systemd[1462]: Starting GNOME Terminal Server...
 Jun 12 14:54:30 kong dbus-daemon[1522]: [session uid=1000 pid=1522] Successfully activated service 'org.gnome.Terminal'
 Jun 12 14:54:30 kong systemd[1462]: Started GNOME Terminal Server.
@@ -304,3 +305,4 @@ Jun 12 14:55:18 kong systemd[1]: Condition check resulted in Bluetooth service b
 Jun 12 14:55:20 kong geoclue[3301]: Service not used for 60 seconds. Shutting down..
 Jun 12 14:55:20 kong systemd[1]: geoclue.service: Deactivated successfully.
 Jun 12 14:55:31 kong org.xfce.ScreenSaver[1874]: Xlib:  extension "DPMS" missing on display ":1".
+```
